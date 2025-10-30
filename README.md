@@ -1,3 +1,5 @@
+# Desafio vaga de estagio OpenSense
+
 Para o desafio, decidi utilizar a biblioteca `BeautifulSoup`, pois ela é ideal para a coleta de dados em páginas `HTML`.
 
 A princípio, minha ideia era utilizar tags `div` e `classes` para filtrar os dados dos arquivos disponibilizados. Porém, apenas um deles tinha `div` personalizadas; os demais não possuíam identificação. A partir disso, considerei padronizar os arquivos `HTML`, mas não tinha certeza se seria permitido, então segui outro método.
@@ -12,4 +14,4 @@ Por fim, para a criação da nova tabela, utilizei a biblioteca Pandas, gerando 
 Fonte de pesquisa ultilzadas durante o projeto:
 - [Documentação da Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/#a-regular-expression)
 - [Documentação Beautiful Soup¶](https://www.crummy.com/software/BeautifulSoup/bs4/doc.ptbr/#uma-expressao-regular-regex)
-- Diversos tutoriais no Youtube
+- Tutoriais no Youtube
