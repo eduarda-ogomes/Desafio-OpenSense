@@ -1,4 +1,4 @@
-# Desafio vaga de estagio OpenSense
+# Desafio OpenSense
 
 Para o desafio, decidi utilizar a biblioteca `BeautifulSoup`, pois ela é ideal para a coleta de dados em páginas `HTML`.
 
